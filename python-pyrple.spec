@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.python
 %define		module	pyrple
 %define		ver_y	2004
 %define		ver_m	01
