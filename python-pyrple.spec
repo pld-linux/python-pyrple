@@ -13,7 +13,7 @@ Vendor:		Robin Dunn <robin@alldunn.com>
 Group:		Development/Languages/Python
 Source0:	http://infomesh.net/pyrple/%{module}-%{ver_y}-%{ver_m}-%{ver_d}.tar.gz
 # Source0-md5:	dfa643e209bb1948c25cab604fd78adc
-URL:		http://www.amk.ca/python/code/medusa.html
+URL:		http://infomesh.net/pyrple/
 BuildRequires:	python-devel >= 2.3
 BuildRequires:	rpm-pythonprov
 %pyrequires_eq	python-modules
