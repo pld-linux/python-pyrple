@@ -7,7 +7,7 @@ Summary:	Pyrple - parser for RDF/XML, N3, and N-Triples
 Summary(pl):	Pyrple - parser dla RDF/XML, N3, N-Triples
 Name:		python-%{module}
 Version:	%{ver_y}%{ver_m}%{ver_d}
-Release:	1
+Release:	2
 License:	BSD-like (see LICENSE.txt)
 Vendor:		Robin Dunn <robin@alldunn.com>
 Group:		Development/Languages/Python
