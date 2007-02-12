@@ -4,7 +4,7 @@
 %define		ver_d	26
 
 Summary:	Pyrple - parser for RDF/XML, N3, and N-Triples
-Summary(pl):	Pyrple - parser dla RDF/XML, N3, N-Triples
+Summary(pl.UTF-8):   Pyrple - parser dla RDF/XML, N3, N-Triples
 Name:		python-%{module}
 Version:	%{ver_y}%{ver_m}%{ver_d}
 Release:	2
@@ -25,11 +25,11 @@ with API-level querying, experimental marshalling, many utilities,
 and is small and minimally interdependent. It can do graph isomorphism
 testing, rule application, etc.
 
-%description -l pl
+%description -l pl.UTF-8
 Pyrple analizuje dane RDF/XML, N3, N-Triplets. Ma przechowywanie
-danych w pamiêci z odpytywaniem na poziomie API, eksperymentalnym
-porz±dkowaniem, wieloma narzêdziami. Jest ma³y i ma minimalne
-zale¿no¶ci. Mo¿e sprawdzaæ izomorficzno¶æ grafów, dzia³anie regu³ itp.
+danych w pamiÄ™ci z odpytywaniem na poziomie API, eksperymentalnym
+porzÄ…dkowaniem, wieloma narzÄ™dziami. Jest maÅ‚y i ma minimalne
+zaleÅ¼noÅ›ci. MoÅ¼e sprawdzaÄ‡ izomorficznoÅ›Ä‡ grafÃ³w, dziaÅ‚anie reguÅ‚ itp.
 
 %prep
 %setup -q -n %{module}-%{ver_y}-%{ver_m}-%{ver_d}
