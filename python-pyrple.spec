@@ -4,7 +4,7 @@
 %define		ver_d	26
 
 Summary:	Pyrple - parser for RDF/XML, N3, and N-Triples
-Summary(pl.UTF-8):   Pyrple - parser dla RDF/XML, N3, N-Triples
+Summary(pl.UTF-8):	Pyrple - parser dla RDF/XML, N3, N-Triples
 Name:		python-%{module}
 Version:	%{ver_y}%{ver_m}%{ver_d}
 Release:	2
